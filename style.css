@@ -16,12 +16,12 @@ body {
   align-items: center;
   text-align: center;
   min-height: 100vh;
-  background-color: #8f583b;
+  background-color: #763945;
 }
 
 .profile-card {
-  background-color: #faccad;
-  color: #f5966d;
+  background-color: #ffb6c1;
+  color: #4c1322;
   padding: 2rem 2.5rem;
   border-radius: 1rem;
 }
@@ -41,22 +41,22 @@ body {
 
 .profile-card p {
   font-size: 14px;
-  color: #8f583b;
+  color: #a2616c;
   font-weight: 400;
 }
 
 .profile-card li {
   list-style: none;
-  background-color: #c07759;
-  color: #ffbe9f;
+  background-color: #f05e81;
+  color: #fff3f6;
   padding: 0.8rem 2.5rem;
   border-radius: 0.5rem;
   margin-top: 1rem;
 }
 
 .profile-card li:hover {
-  background-color: #8f583b;
-  color: #faccad;
+  background-color: #ffffd0;
+  color: #fe4f7e;
 }
 
 .profile-card a {
